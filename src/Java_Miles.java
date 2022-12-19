@@ -7,4 +7,4 @@ public class Java_Miles {
 
         System.out.println((TicketPrice / Mile) + " Бонусов начислено");
     }
-    }
+}
